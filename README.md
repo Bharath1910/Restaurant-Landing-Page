@@ -9,7 +9,7 @@ This is a frontend project based on product page.
 
 - **Time Taken** : 1 Hour 30 minutes
 - Experience gained on
-    - flexbox
+    - Flexbox
 
 - Link to the site : [Vercel](https://02-restaurant-landing-page.vercel.app/)
 
